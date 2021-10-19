@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/startbootstrap-clean-blog-jekyll/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/startbootstrap-clean-blog-jekyll/" rel="alternate" type="text/html" /><updated>2021-10-19T20:53:30+09:00</updated><id>http://localhost:4000/startbootstrap-clean-blog-jekyll/feed.xml</id><title type="html">Clean Blog</title><subtitle>A Blog Theme by Start Bootstrap</subtitle><author><name>Start Bootstrap</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/GGuuu/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/GGuuu/" rel="alternate" type="text/html" /><updated>2021-10-19T22:07:31+09:00</updated><id>http://localhost:4000/GGuuu/feed.xml</id><title type="html">GGuuu’s Devlog</title><subtitle>~~ 이리저리 방황하는 개발자 ~~</subtitle><author><name>GGuuu</name></author><entry><title type="html">[책정리] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커</title><link href="http://localhost:4000/GGuuu/2021/10/18/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4_%EB%8F%84%EC%BB%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0.html" rel="alternate" type="text/html" title="[책정리] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커" /><published>2021-10-18T00:00:00+09:00</published><updated>2021-10-18T00:00:00+09:00</updated><id>http://localhost:4000/GGuuu/2021/10/18/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4_%EB%8F%84%EC%BB%A4%20%EC%B1%85%EB%A6%AC%EB%B7%B0</id><content type="html" xml:base="http://localhost:4000/GGuuu/2021/10/18/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4_%EB%8F%84%EC%BB%A4-%EC%B1%85%EB%A6%AC%EB%B7%B0.html">&lt;p&gt;미루고 미루던 블로그를 시작합니다.&lt;/p&gt;
+
+&lt;p&gt;
+  성장을 기록하는 것 만큼 나중에 봤을 때 뿌듯한 것이 없죠!
+  &lt;br /&gt;
+  끊임없이 발전을 추구하고, 때로는 좌절해도 다시 일어서는 인생을 살겠습니다@
+&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;div style=&quot;text-align: center; font-weight: 600; font-size: 11pt&quot;&gt;
+        출판사 &apos;길벗&apos;의 리뷰어로 선정되어 남기는 리뷰입니다
+    &lt;/div&gt;
+&lt;/p&gt;</content><author><name>GGuuu</name></author><summary type="html">미루고 미루던 블로그를 시작합니다.</summary></entry><entry><title type="html">블로그를 시작합니다!</title><link href="http://localhost:4000/GGuuu/2021/10/18/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4.html" rel="alternate" type="text/html" title="블로그를 시작합니다!" /><published>2021-10-18T00:00:00+09:00</published><updated>2021-10-18T00:00:00+09:00</updated><id>http://localhost:4000/GGuuu/2021/10/18/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4</id><content type="html" xml:base="http://localhost:4000/GGuuu/2021/10/18/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4.html">&lt;p&gt;미루고 미루던 블로그를 시작합니다.&lt;/p&gt;
+
+&lt;p&gt;
+  성장을 기록하는 것 만큼 나중에 봤을 때 뿌듯한 것이 없죠!
+  &lt;br /&gt;
+  끊임없이 발전을 추구하고, 때로는 좌절해도 다시 일어서는 인생을 살겠습니다@
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h1 style=&apos;text-align: center;&apos;&gt;지켜봐주세요!&lt;/h1&gt;
+&lt;/p&gt;</content><author><name>GGuuu</name></author><summary type="html">미루고 미루던 블로그를 시작합니다.</summary></entry></feed>
